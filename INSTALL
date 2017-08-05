@@ -1,0 +1,9 @@
+Building EditCoin
+
+See doc/readme-qt.rst for instructions on building EditCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EditCoin.
+
+See doc/build-*.txt for instructions on building editcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of EditCoin.
